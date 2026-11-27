@@ -146,7 +146,7 @@ The dashboard is designed to answer the following business questions:
 
 **Business Focus:** Understand overall business performance and monitor revenue growth against targets.
 
-![Executive Overview](images/1.Overview.png)
+![Executive Overview](Dashboard%20Image/1.Overview.png)
 
 ### 🗺️ 02. Regional Performance
 
@@ -156,7 +156,7 @@ The dashboard is designed to answer the following business questions:
 
 **Business Focus:** Identify high-performing regions and understand geographical revenue distribution.
 
-![Regional Performance](images/2.Regional%20Performance.png)
+![Regional Performance](Dashboard%20Image/2.Regional%20Performance.png)
 
 ### 📦 03. Product Analysis
 
@@ -166,7 +166,7 @@ The dashboard is designed to answer the following business questions:
 
 **Business Focus:** Identify profitable products and understand category-level sales performance.
 
-![Product Analysis](images/3.Product%20Analysis.png)
+![Product Analysis](Dashboard%20Image3.Product%20Analysis.png)
 
 ### 🤝 04. Dealer Performance
 
@@ -176,7 +176,7 @@ The dashboard is designed to answer the following business questions:
 
 **Business Focus:** Understand dealer contribution and identify high-performing dealer segments.
 
-![Dealer Performance](images/4.Dealer%20Performance.png)
+![Dealer Performance](Dashboard%20Image/4.Dealer%20Performance.png)
 
 ### 📈 05. Trends & Forecasting
 
@@ -186,7 +186,7 @@ The dashboard is designed to answer the following business questions:
 
 **Business Focus:** Understand historical business growth and explore future revenue trends.
 
-![Trends & Forecasting](images/5.Trends%20&%20Forecasting.png)
+![Trends & Forecasting](Dashboard%20Image/5.Trends%20&%20Forecasting.png)
 
 ---
 
@@ -281,7 +281,7 @@ The walkthrough demonstrates dashboard navigation, interactive slicers, visualiz
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1wCx1DpdkbWHafRGOrMlcjiY7kxVNXjVX/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1K1o6zyi2rL5lx-H_Z2LyNdDmYw-JMsG7/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/▶_WATCH-Dashboard_Walkthrough-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
