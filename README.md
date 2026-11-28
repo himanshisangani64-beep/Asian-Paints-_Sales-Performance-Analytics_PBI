@@ -166,7 +166,7 @@ The dashboard is designed to answer the following business questions:
 
 **Business Focus:** Identify profitable products and understand category-level sales performance.
 
-![Product Analysis](Dashboard%20Image3.Product%20Analysis.png)
+![Product Analysis](Dashboard%20Image/3.Product%20Analysis.png)
 
 ### 🤝 04. Dealer Performance
 
